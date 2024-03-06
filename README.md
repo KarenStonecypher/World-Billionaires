@@ -16,7 +16,7 @@ The dataset was compiled from various sources, including Forbes and other financ
 
 Contents:
 2,640 rows, 35 columns
-The contents of this data set include details on each of the 2,640 billionaires listed as of April 4, 2023. There are fields for the basic demographics of each person and data on their worth in millions of US dollars (so 1,000 means 1 billion),
+The contents of this data set include details on each of the 2,640 billionaires listed as of April 4, 2023. There are fields for the basic demographics of each person and data on their worth in millions of US dollars (so 1,000 = 1 billion),
 the industries in which they made their wealth, and whether or not they are self-made. The data set also includes information on the countries in which the people live, such as the life expectancy, consumer price index, GDP, 
 and education enrollment rates for their country.
 
@@ -31,3 +31,4 @@ The project files are divided between the following folders:
 ## Reports
 
 The Tableau Storyboard report for this analysis can be found here: [Tableau Storyboard](https://public.tableau.com/views/WorldBillionaires_17093364850670/WorldBillionaires?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+Not every element of the analysis is contained on the Tableau Storyboard, only the relevant and final results.
