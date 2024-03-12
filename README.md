@@ -20,6 +20,8 @@ The contents of this data set include details on each of the 2,640 billionaires 
 the industries in which they made their wealth, and whether or not they are self-made. The data set also includes information on the countries in which the people live, such as the life expectancy, consumer price index, GDP, 
 and education enrollment rates for their country.
 
+Also acquired from Kaggle.com was the ["world-countries.json"](https://www.kaggle.com/datasets/ktochylin/world-countries) dataset containing the world mapping data for the choropleth visualizations created.
+
 ## Folders
 
 The project files are divided between the following folders:
